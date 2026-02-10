@@ -2,7 +2,7 @@
 
 Este repositorio contiene el algoritmo de binarización híbrida (suavizado Gaussiano + umbralización de Otsu) aplicado a imágenes de hojas de cafeto, con el objetivo de mejorar la segmentación bajo condiciones de iluminación variable y apoyar el análisis de deficiencias nutricionales.
 
-## Contenido del repositorio
+
 ## Contenido del repositorio
 - [`algoritmo_binarizacion_hibrida.py`](algoritmo_binarizacion_hibrida.py): implementación del algoritmo en Python.
 - [`Articulo.pdf`](Articulo.pdf): artículo del proyecto.
