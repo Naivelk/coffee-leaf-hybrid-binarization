@@ -31,3 +31,4 @@ El **dataset/modelo de entrenamiento** no se publica en este repositorio.
 ## Autor
 Kevin Santiago Quimbaya Andrade  
 GitHub: https://github.com/Naivelk
+Linkedin: https://www.linkedin.com/in/kevin-santiago-086626338/
