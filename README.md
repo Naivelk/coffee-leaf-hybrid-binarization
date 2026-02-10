@@ -17,7 +17,13 @@ Este repositorio contiene el algoritmo de binarización híbrida (suavizado Gaus
 5. Visualización de resultados (original, gris, binaria)
 
 ## Resultados (según el artículo)
-El enfoque reporta desempeño con métricas como **PSNR** e **IoU** (ver detalles en `Articulo.pdf`).
+Los resultados y métricas (PSNR, IoU, etc.) se reportan en el artículo:
+- 📄 [`Articulo.pdf`](Articulo.pdf)
+
+## Nota sobre reproducibilidad
+Este repositorio incluye la **implementación del algoritmo** y la **documentación del proyecto**.  
+El **dataset/modelo de entrenamiento** no se publica en este repositorio.
+
 
 ## Autor
 Kevin Santiago Quimbaya Andrade  
